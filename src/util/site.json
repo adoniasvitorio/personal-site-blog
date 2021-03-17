@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "Made with ❤ by Adonias Vitorio",
     "siteUrl": "https://www.adoniasvitorio.com.br",
-    "image": "/assets/image-profile.png",
-    "iconimage": "/assets/image-profile.png",
+    "image": "/assets/image-profile.jpg",
+    "iconimage": "/assets/image-profile.jpg",
     "twitterUsername": "@adoniasvitorio"
   },
   "ga": "UA-XXXXXXXXX-X"
