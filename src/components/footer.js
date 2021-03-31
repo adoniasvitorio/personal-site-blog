@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>Made with <span className="icon -love"><RiHeart2Line/></span> by <Link to="/">Adonias Vitorio</Link></p>
+      <p>Feito com <span className="icon -love"><RiHeart2Line/></span> por <Link to="/">Adonias Vitorio</Link></p>
     </div>
   </footer>
 )
