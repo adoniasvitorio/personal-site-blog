@@ -1,8 +1,8 @@
 ---
 template: blog-post
 title: Vazamento de Dados, ferramentas e cuidados que vão ajudar a se proteger melhor.
-slug: /blog/vazamento-de-dados
-date: 2021-05-29 15:26
+slug: /blog/vazamento_de_dados
+date: 2021-05-29 16:45
 description: Vazamento de Dados, Ferramentas, Dicas e Conteúdos que vão ajudar a
   proteger melhor você e suas senhas.
 featuredImage: /assets/amol-tyagi-0juktkotkpu-unsplash-1-.jpg
